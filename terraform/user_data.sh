@@ -12,5 +12,3 @@ sudo apt install cuda-drivers -y
 
 # wget https://downloads.skullsecurity.org/passwords/rockyou.txt.bz2
 # bunzip2 rockyou.txt.bz2
-
-wget https://github.com/mrdeep209/aws_cat/scripts/remote_hashcat.sh /home/ubuntu/remote_hashcat.sh
